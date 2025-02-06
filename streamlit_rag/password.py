@@ -1,7 +1,7 @@
 import streamlit_authenticator as stauth
 
 # List of plain-text passwords
-passwords = ['Pancakes3231#', 'Montreal2025#']
+passwords = ['', '']
 
 # Hash the passwords
 hashed_passwords = stauth.Hasher(passwords).generate()
