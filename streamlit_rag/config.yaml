@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    affant:
+      email: athameem@ampliforce.com
+      name: Affan Thameem
+      password: "$2b$12$2QzLambqqIKo.9p4VZEOU.5F1Zb3X/sC.izQKzYRFdEHz4RtPWBOe"
+    cosminc:
+      email: ccojocaru@ampliforce.com
+      name: Cosmin Cojocaru
+      password: "$2b$12$uVwxvIGwmOegYN34wxGAOeY7htas4RwsMeTp4KDatWVYw/N7EebDa"
+cookie:
+  expiry_days: 0
+  key: some_random_key
+  name: some_cookie_name
+preauthorized:
+  emails:
+  - athameem@ampliforce.com
