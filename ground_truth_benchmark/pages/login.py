@@ -18,7 +18,7 @@ st.markdown(
 )
 
 # SharePoint Credentials
-SHAREPOINT_URL = "https://thameema.sharepoint.com/:f:/s/Test/Eig7XJEvUZxMjrbZxMeGLOQBzFbUBsTI69gT9fmU2FywuA"  
+SHAREPOINT_URL = "https://thameema.sharepoint.com/sites/Test"  
 def authentication(email_user, password_user):
     """Authenticate user and store session."""
     auth = AuthenticationContext(SHAREPOINT_URL)
